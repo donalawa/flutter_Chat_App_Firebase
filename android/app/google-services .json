@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135267740160",
+    "firebase_url": "https://flutterchat-1b3fe.firebaseio.com",
+    "project_id": "flutterchat-1b3fe",
+    "storage_bucket": "flutterchat-1b3fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135267740160:android:d033d2ba7e8744b19906e5",
+        "android_client_info": {
+          "package_name": "com.example.nawewe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135267740160-4b4nsaqg185bmpbnoi21m0pcruhdavk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQsadEGoadQh06jGwMmXRw00TmwypahlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135267740160-4b4nsaqg185bmpbnoi21m0pcruhdavk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
